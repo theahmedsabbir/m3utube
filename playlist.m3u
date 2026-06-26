@@ -85,6 +85,88 @@ https://server.itcnbd.live/stream/match-11.m3u8
 https://server.itcnbd.live/stream/match-12.m3u8
 #EXTINF:-1 tvg-id="match-13" tvg-name="BFL Live 3" tvg-logo="https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png" group-title="Sports Channels",BFL Live 3
 https://server.itcnbd.live/stream/match-13.m3u8
+#EXTINF:-1 tvg-id="t_sports_src1" tvg-name="T SPORTS SRC1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=T_SPORTS_SRC1" group-title="Sports Channels",T SPORTS SRC1
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="star_sports_1_src1" tvg-name="STAR SPORTS 1 SRC1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=STAR_SPORTS_1_SRC1" group-title="Sports Channels",STAR SPORTS 1 SRC1
+https://starsportshindiii.pages.dev/720p.m3u8
+#EXTINF:-1 tvg-id="fifa_plus_src1" tvg-name="FIFA PLUS SRC1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=FIFA_PLUS_SRC1" group-title="Sports Channels",FIFA PLUS SRC1
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/058eff13-1fe8-4619-94fc-eeab40e86d10/1.m3u8
+#EXTINF:-1 tvg-id="willow_sports_src1" tvg-name="WILLOW SPORTS SRC1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=WILLOW_SPORTS_SRC1" group-title="Sports Channels",WILLOW SPORTS SRC1
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="star_sports_select_1" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=STAR_SPORTS_SELECT_1" group-title="Sports Channels",STAR SPORTS SELECT 1
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="star_sports_select_2" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=STAR_SPORTS_SELECT_2" group-title="Sports Channels",STAR SPORTS SELECT 2
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein_sports_xtra" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports Channels",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cricket_gold" tvg-name="CRICKET GOLD" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports Channels",CRICKET GOLD
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="fifa_plus_us" tvg-name="FIFA PLUS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports Channels",FIFA PLUS US
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa_plus_women" tvg-name="FIFA PLUS WOMEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports Channels",FIFA PLUS WOMEN
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="ftf_sports" tvg-name="FTF SPORTS" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports Channels",FTF SPORTS
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 tvg-id="ktv_sport" tvg-name="KTV SPORT" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports Channels",KTV SPORT
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nbc_sports_now" tvg-name="NBC SPORTS NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports Channels",NBC SPORTS NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="sky_racing_2" tvg-name="SKY RACING 2" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports Channels",SKY RACING 2
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="sports_connect" tvg-name="SPORTS CONNECT" tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="Sports Channels",SPORTS CONNECT
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 tvg-id="trace_sport_stars" tvg-name="TRACE SPORT STARS" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports Channels",TRACE SPORT STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn_the_ocho" tvg-name="TSN THE OCHO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports Channels",TSN THE OCHO
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="tvs_sports" tvg-name="TVS SPORTS" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sports Channels",TVS SPORTS
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="tvs_turbo" tvg-name="TVS TURBO" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Sports Channels",TVS TURBO
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="unbeaten_sports" tvg-name="UNBEATEN SPORTS CHANNEL" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports Channels",UNBEATEN SPORTS CHANNEL
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-id="vsin" tvg-name="VSIN" tvg-logo="https://i.imgur.com/C4wIRxg.png" group-title="Sports Channels",VSIN
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-id="womens_sports_network" tvg-name="WOMEN'S SPORTS NETWORK" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="Sports Channels",WOMEN'S SPORTS NETWORK
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 tvg-id="world_billiards_tv" tvg-name="WORLD BILLIARDS TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" group-title="Sports Channels",WORLD BILLIARDS TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="world_poker_tour" tvg-name="WORLD POKER TOUR" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports Channels",WORLD POKER TOUR
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.vf=EHEabFVWNva
+#EXTINF:-1 tvg-id="a_sports_hd" tvg-name="A SPORTS HD" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=A_SPORTS_HD" group-title="Sports Channels",A SPORTS HD
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="t_sports_hd_src2" tvg-name="T SPORTS HD SRC2" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=T_SPORTS_HD_SRC2" group-title="Sports Channels",T SPORTS HD SRC2
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ptv_sports_hd" tvg-name="PTV SPORTS HD" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=PTV_SPORTS_HD" group-title="Sports Channels",PTV SPORTS HD
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="star_sports_1_hd_src2" tvg-name="STAR SPORTS 1 HD SRC2" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=STAR_SPORTS_1_HD_SRC2" group-title="Sports Channels",STAR SPORTS 1 HD SRC2
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="dd_sports_2" tvg-name="DD SPORTS 2.0" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=DD_SPORTS_2_0" group-title="Sports Channels",DD SPORTS 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="willow_hd_src2" tvg-name="WILLOW HD SRC2" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=WILLOW_HD_SRC2" group-title="Sports Channels",WILLOW HD SRC2
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="sports_range" tvg-name="SPORTS RANGE" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=SPORTS_RANGE" group-title="Sports Channels",SPORTS RANGE
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-id="flash_guys_hd" tvg-name="FLASH GUYS HD" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=FLASH_GUYS_HD" group-title="Sports Channels",FLASH GUYS HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-id="crazy_ex" tvg-name="CRAZY EX" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=CRAZY_EX" group-title="Sports Channels",CRAZY EX
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-id="thunder_er" tvg-name="THUNDER ER" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=THUNDER_ER" group-title="Sports Channels",THUNDER ER
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+#EXTINF:-1 tvg-id="redbull_tv_hd" tvg-name="REDBULL TV HD" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=REDBULL_TV_HD" group-title="Sports Channels",REDBULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="muxip_sportsfirst_tv" tvg-name="MUXIP SPORTSFIRST TV" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=MUXIP_SPORTSFIRST_TV" group-title="Sports Channels",MUXIP SPORTSFIRST TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
+#EXTINF:-1 tvg-id="a_spor_tr" tvg-name="A SPOR TR" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=A_SPOR_TR" group-title="Sports Channels",A SPOR TR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-id="bein_sports_1" tvg-name="BEIN SPORTS 1" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=BEIN_SPORTS_1" group-title="Sports Channels",BEIN SPORTS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="real_madrid_tv" tvg-name="REAL MADRID TV" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=REAL_MADRID_TV" group-title="Sports Channels",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="fifa_plus_french" tvg-name="FIFA PLUS FRENCH" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=FIFA_PLUS_FRENCH" group-title="Sports Channels",FIFA PLUS FRENCH
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="football_wc_2026" tvg-name="FOOTBALL WORLD CUP 2026 LIVE" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports Channels",FOOTBALL WORLD CUP 2026 LIVE
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 
 # --- Kids ---
 #EXTINF:-1 tvg-id="cartoon_network_hd" tvg-name="Cartoon Network HD" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Kids",Cartoon Network HD
@@ -101,6 +183,8 @@ https://server.itcnbd.live/stream/sonyyay.m3u8
 # --- Entertainment Channels ---
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Entertainment Channels",Zee Bangla VIP
 https://server.itcnbd.live/stream/zee_bangla.m3u8
+#EXTINF:-1 tvg-id="zee_bangla_src2" tvg-name="Zee Bangla VIP" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=ZEE_BANGLA" group-title="Entertainment Channels",Zee Bangla VIP
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zee_anmol" tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Entertainment Channels",Zee Anmol
 https://server.itcnbd.live/stream/zee_anmol.m3u8
 #EXTINF:-1 tvg-id="zing_sd" tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Entertainment Channels",Zing
@@ -127,6 +211,28 @@ https://server.itcnbd.live/stream/zee_tv_hd.m3u8
 https://server.itcnbd.live/stream/and_tv_hd.m3u8
 #EXTINF:-1 tvg-id="andpicture_hd" tvg-name="& Pictures HD" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Entertainment Channels",& Pictures HD
 https://server.itcnbd.live/stream/andpicture_hd.m3u8
+#EXTINF:-1 tvg-id="star_jolsha" tvg-name="STAR JOLSHA" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=STAR_JOLSHA" group-title="Entertainment Channels",STAR JOLSHA
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="enter_10_hd" tvg-name="ENTER 10 HD" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=ENTER_10_HD" group-title="Entertainment Channels",ENTER 10 HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="sangeet_bangla" tvg-name="SANGEET BANGLA" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=SANGEET_BANGLA" group-title="Entertainment Channels",SANGEET BANGLA
+http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9xm_music" tvg-name="9XM MUSIC" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=9XM_MUSIC" group-title="Entertainment Channels",9XM MUSIC
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-id="9x_jalwa" tvg-name="9X JALWA" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=9X_JALWA" group-title="Entertainment Channels",9X JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/SD216/SD216.m3u8
+#EXTINF:-1 tvg-id="dance_tv" tvg-name="DANCE TV" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=DANCE_TV" group-title="Entertainment Channels",DANCE TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="joo_music" tvg-name="JOO MUSIC" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=JOO_MUSIC" group-title="Entertainment Channels",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="music_india" tvg-name="MUSIC INDIA" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=MUSIC_INDIA" group-title="Entertainment Channels",MUSIC INDIA
+https://cdn-2.pishow.tv/live/226/226_2.m3u8
+#EXTINF:-1 tvg-id="8xm" tvg-name="8XM" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=8XM" group-title="Entertainment Channels",8XM
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="party_univers" tvg-name="PARTY UNIVERS" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=PARTY_UNIVERS" group-title="Entertainment Channels",PARTY UNIVERS
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1 tvg-id="atn_music" tvg-name="ATN MUSIC" tvg-logo="https://placehold.co/300x200/0f172a/ffffff?text=ATN_MUSIC" group-title="Entertainment Channels",ATN MUSIC
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
 
 # --- Movie Channels ---
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie Channels",SONY MAX HD VIP
