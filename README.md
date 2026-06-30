@@ -32,11 +32,20 @@ Git push করার পর raw URL দিয়ে load করো:
 https://raw.githubusercontent.com/<user>/<repo>/main/playlist.m3u
 ```
 
+## Stream test
+
+```bash
+chmod +x test-playlist.sh
+./test-playlist.sh playlist.m3u
+```
+
+প্রতিটি URL-এ ৩ সেকেন্ড test → result `report.txt`-তে জমা হয় (terminal output নেই)।
+
 ## গুরুত্বপূর্ণ
 
 - কিছু link-এ **token/expiry** থাকে — কিছুদিন পর কাজ বন্ধ হতে পারে
 - Event/LIVE চ্যানেল (match, FIFA ইত্যাদি) স্থায়ী নয়
-- Link test: `ffprobe` / `ffmpeg` দিয়ে manifest check, তারপর VLC বা Android TV-তে confirm
+- Test result final নয় — VLC/Android TV-তে confirm করো
 - Ping/HTTP 200 মানে stream চলবে — এটা guarantee নয়
 
 ## Update (manual)
