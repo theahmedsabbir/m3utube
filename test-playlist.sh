@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# command examples: ./test-playlist.sh playlist.m3u or ./test-playlist.sh playlist.m3u 5 
+
 
 PLAYLIST="${1:-}"
 REPORT="report.txt"
